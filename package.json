@@ -1,0 +1,14 @@
+{
+  "name": "wechat-gui-test",
+  "version": "0.0.0",
+  "description": "wechat gui test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "wechat": "~1.2.4"
+  }
+}
